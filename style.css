@@ -1,0 +1,16 @@
+body {
+  width: 200px;
+  text-align: center;
+}
+
+#word-container {
+  padding: 10px;
+}
+
+#word {
+  margin: 0;
+}
+
+#translation {
+  margin: 0;
+}
